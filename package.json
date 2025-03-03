@@ -1,0 +1,7 @@
+{
+  "name": "travel-planner",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
